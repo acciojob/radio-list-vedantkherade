@@ -3,6 +3,7 @@
       color: red;
     }
 
-    .input:nth-child(even) input[type="radio"] {
+
+    .input:nth-child(even) {
       accent-color: red;
     }

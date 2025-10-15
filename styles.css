@@ -1,4 +1,8 @@
 /*  your css code here. If applicable */
-    .input {
-      accent-color: red; 
+ .input:nth-child(even) {
+      color: red;
+    }
+
+    .input:nth-child(even) input[type="radio"] {
+      accent-color: red;
     }
